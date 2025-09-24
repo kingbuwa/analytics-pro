@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* tiny helpers to match the dark UI vibe */
+:root {
+  color-scheme: dark;
+}
+
